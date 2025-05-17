@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Stair
+  - DownStair
+  - SpecialStair
+  - Ability
+  - asd
+  - Fall
+  - Wall
+  - Item
+  - Npc
+  - ClearStair
+  - Buff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Falling
+    uniqueID: 3248270081
+    locked: 0
+  - name: Floor
+    uniqueID: 104403817
+    locked: 0
+  - name: Wall
+    uniqueID: 2459982825
+    locked: 0
+  - name: Fall
+    uniqueID: 3503676333
+    locked: 0
+  - name: Etc
+    uniqueID: 37570895
+    locked: 0
+  - name: Lock
+    uniqueID: 450556897
+    locked: 0
+  - name: Player
+    uniqueID: 3127545457
+    locked: 0
+  - name: Item
+    uniqueID: 1127670277
+    locked: 0
+  - name: Effect
+    uniqueID: 2295656681
+    locked: 0
